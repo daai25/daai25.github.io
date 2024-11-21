@@ -22,8 +22,8 @@ Topical and touristic excursion complement the academic curriculum.
 ## Program (tbc)
 
 The program is not yet finalized, but will be more or less in the scope of the last year's program.
-Download the program and get an impression of the curriculum.
-Note that the ice breaker activities on Sunday 29 June, the excursions and evening sessions are compulsory parts of the program.
+Download the 2024 program and get an impression of the curriculum.
+Note that the ice breaker activity on Sunday 29 June, the excursions and evening sessions are compulsory parts of the program.
 
 [DOWNLOAD THE SYLLABUS OF THE 2024 DAAI CURRICULUM](assets/images/Summer School AI_US_Syllabus_Jan 2024.pdf)
 
