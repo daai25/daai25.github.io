@@ -43,7 +43,7 @@ Completed 2nd year/4th semester (full-time students) and completed 3rd year/6th 
 
 On the Intranet
 
-[Summer School 2025 information and registration]([https://bit.ly/SoE_summer_school_2025])
+[Summer School 2025 information and registration](https://bit.ly/SoE_summer_school_2025/)
 
 Have a look at the [Informationsheet]()
 
