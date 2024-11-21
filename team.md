@@ -20,12 +20,6 @@ Head International Relations, ZHAW School of Engineering
 
 Summer Schools Coordinator, International Office, ZHAW School of Engineering
 
-**Overall Coordinator GVSU**
-
-![Prof. Paul Leidig](/assets/images/paul.jpg){: width="150" }  
-[**Prof. Paul Leidig**](https://www.gvsu.edu/computing/leidig-paul-50.htm)
-
-Director and lecturer Computer Science Department, GVSU
 
 **Coordinator GVSU**
 
