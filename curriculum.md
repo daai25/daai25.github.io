@@ -28,7 +28,7 @@ Note: the final program will be displayed around 2 weeks before the start of the
 |--------|--------|-------|-------|-------|-------|-------|-------|--------|
 |**Morning** |Arrival US guests|*Lecture*: Lectures in data engineering |*Lecture:* Lectures in data engineering |*Lecture*: Lectures in data engineering |*Lecture*: Lectures in data engineering |Topical excursion to Zurich (ETH Zurich, University of Zurich or company) dealing with large data sets |Excursion [Rhine Fall](https://rheinfall.ch/en/) & [Alpstein Mountain Range](https://www.appenzell.ch/en/alpstein.html) incl overnight stay|Short hike and transfer back to Winterthur|
 |**Afternoon**|Welcome garden party in Rikon, incl. dinner (4 pm, tbc)|Data Science Project: Introduction and selection of project|Data Science Project: Project work, data management, data report|Data Science Project: Project work in groups and individual supervision|Data Science Project: Project work in groups and individual supervision|4 pm: Free time in Zurich and frack parade and [night of technology](https://www.zhaw.ch/de/engineering/ueber-uns/veranstaltungen/nacht-der-technik/) at ZHAW SoE|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|Free time|
-
+|**Evening**|Dinner in Rikon, all participants|Dinner US guests only|6 pm Dinner all participants, incl. CH students, [Restaurant Brewhouse](https://www.brewhouse.restaurant/de/p/menu-1128.html)|Dinner US guests only|6 pm Dinner for all participants, incl. CH students, [Restaurant Obergass](https://www.restaurant-obergass.ch/)
 
 ### Week 2: Machine Learning (ZHAW), lecturers Dr. Manuel Dömer and Dr. Andreas Weiler
 
@@ -36,6 +36,9 @@ Note: the final program will be displayed around 2 weeks before the start of the
 |--------|---------|--------|-------|-------|-------|-------|-------|
 |**Morning**|*Lecture*: Lecture in machine learninge | *Lecture*: Lecture in machine learninge |*Lecture*: Lecture in machine learninge |*Data Science Project*: Project work in groups and individual supervision|Full day excursion to Berne incl visit of the [federal parliament building](https://www.parlament.ch/en/%C3%BCber-das-parlament/parliament-building)|Transfer to Allendale, Michigan, USA |Transfer to Allendale, Michigan, USA|
 |**Afternoon**|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project presentations and discussions|Full day excursion to [Berne](https://www.bern.com/en/home) incl visit of the federal parliament building|Transfer to Allendale, Michigan, USA |Transfer to Allendale, Michigan, USA |
+
+
+6 pm Dinner for all participants, incl. CH students, [Restaurant Brewhouse](https://www.brewhouse.restaurant/de/p/menu-1128.html)
 
 ### Week 3: Deep Learning (GVSU), lecturer Dr. Denton Bobeldyk
 
