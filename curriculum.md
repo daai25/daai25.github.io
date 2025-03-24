@@ -32,10 +32,10 @@ Note: the final program will be displayed around 2 weeks before the start of the
 
 ### Week 2: Machine Learning (ZHAW), lecturers Dr. Manuel Dömer and Dr. Andreas Weiler
 
-|        |Mon 7.7|Tue 8.7|Wen 9.7|Thu 10.7|Fri 11.7|Sat 12.7|
-|--------|---------|--------|-------|-------|-------|-------|
-|**Morning**|*Lecture*: Lecture in machine learninge | *Lecture*: Lecture in machine learninge |*Lecture*: Lecture in machine learninge |*Data Science Project*: Project work in groups and individual supervision|Full day excursion to Berne incl visit of the [federal parliament building](https://www.parlament.ch/en/%C3%BCber-das-parlament/parliament-building)|Transfer to Allendale, Michigan, USA for second part of summer school on the GVSU campus|
-|**Afternoon**|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project presentations and discussions|Full day excursion to [Berne](https://www.bern.com/en/home) incl visit of the federal parliament building|Transfer to Allendale, Michigan, USA for second part of summer school on the GVSU campus|
+|        |Mon 7.7|Tue 8.7|Wen 9.7|Thu 10.7|Fri 11.7|Sat 12.7|Sun 13.7|
+|--------|---------|--------|-------|-------|-------|-------|-------|
+|**Morning**|*Lecture*: Lecture in machine learninge | *Lecture*: Lecture in machine learninge |*Lecture*: Lecture in machine learninge |*Data Science Project*: Project work in groups and individual supervision|Full day excursion to Berne incl visit of the [federal parliament building](https://www.parlament.ch/en/%C3%BCber-das-parlament/parliament-building)|Transfer to Allendale, Michigan, USA |Transfer to Allendale, Michigan, USA|
+|**Afternoon**|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project presentations and discussions|Full day excursion to [Berne](https://www.bern.com/en/home) incl visit of the federal parliament building|Transfer to Allendale, Michigan, USA |Transfer to Allendale, Michigan, USA |
 
 ### Week 3: Deep Learning (GVSU), lecturer Dr. Denton Bobeldyk
 
