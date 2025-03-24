@@ -40,16 +40,16 @@ Note: the final program will be displayed around 2 weeks before the start of the
 
 
 
-### Week 3: Deep Learning (GVSU), lecturer Dr. Denton Bobeldyk
+### Week 3: Deep Learning (GVSU), lecturer Dr. Denton Bobeldyk (tbc)
 
-|        |Mon 15.7|Tue 16.7|Wen 17.7|Thu 18.7|Fri 19.7|Sat 20.7|
+|        |Mon 14.7|Tue 15.7|Wen 16.7|Thu 17.7|Fri 18.7|Sat 19.7|
 |--------|---------|--------|-------|-------|-------|-------|
 |**Morning**|*Lecture*: Convolutional Neural Networks, Deep learning evaluation methods, *Group Lab*|*Lecture*: Deep learning dataset management and augmentation, *Group Lab*|*Lecture*: Deep learning evaluation methods, Autoencoders & GANs, *Group Lab*|*Lecture*: Introduction to Group Deep Learning, *Project Lab presentation preparation*|Excursion to [Sleeping Bear Dunes](https://www.nps.gov/slbe/index.htm)|Tour [historic Fort Michilimackinac](https://www.mackinacparks.com/parks-and-attractions/fort-mackinac/) and ferry to [Mackinac Island](https://www.mackinacisland.org/)|
 |**Afternoon**|Group Deep Learning Project and Morning Lecture Review Kahoot|Group Deep Learning Project and Morning Lecture Review Kahoot|Group Deep Learning Project and Morning Lecture Review Kahoot|Project presentations, discussions, evaluation and celebration|Catamaran Ride and overnight stay in [Mackinaw City, MI](https://mackinawcity.com/)|Transfer back to Allendale|
 
-### Week 4: Data Visualization (GVSU), lecturer  Dr. Jonathan Leidig
+### Week 4: Data Visualization (GVSU), lecturer Dr. Jonathan Leidig (tbc)
 
-|        |Mon 22.7|Tue 23.7|Wen 124.7|Thu 25.7|Fri 26.7|Sat 27.7|
+|        |Mon 21.7|Tue 22.7|Wen 23.7|Thu 224.7|Fri 25.7|Sat 26.7|
 |--------|---------|--------|-------|-------|-------|---------|
 |**Morning**|*Lecture*: Intro to visualization and design principles, *Exercises*: Human cognition and UX concepts|*Lecture*: Descriptive chart design, persona & task modeling, *Exercises*: Gestalt psychology, user/persona modeling, task modeling|*Lecture*: Multi-dimensional datasets, overviews, navigation and exploration with large datasets, *Lab*: Group project|*Lecture*: Tree, network, spatial analysis, persuasion, *Lab*: Group project|Excursion to [Chicago](https://www.chicago.gov/city/en.html)|Free Time in Chicago and closure of summer school|
 |**Afternoon**|*Visual analytics projects*: Exploratory data analysis lab with Tableau|*Visual analytics projects*: Statistical charts lab with programming librarie|*Visual analytics projects*: Visualization design with D3, Gephi, GIS, or Google Cloud Platform packages|*Visual analytics projects*: Project presentations, evaluation, celebration|Free time in Chicago and  overnight stay at [Chicago Hostel-International](https://hihostels.com/hostels/hi-chicago/)|
