@@ -20,11 +20,13 @@ At the end of week two (part ZHAW SoE), the teams will present their solutions t
 Topical and touristic excursion complement the academic curriculum.
 
 ## Program
+Note: the final program will be displayed around 2 weeks before the start of the summer school.
+
 ### Week 1 at ZHAW: Data Engineering, lecturer: Dr. Jonathan Fürst 
 
 |        |Sun 29.6|Mon 30.7|Tue 1.7|Wen 2.7|Thu 3.7|Fri 4.7|Sat 5.7|Sun 6.7.|
 |--------|--------|-------|-------|-------|-------|-------|-------|--------|
-|**Morning** |Arrival US guests|*Lecture*: Data Science-Process and Elements of Exploratory Data Analysis, *Lab*: Development Environment and The Python Data Science stack|*Lecture:* Data Curation, Data Integration, Data Extraction, Data Wrangling and Exploration, Record Linkage, *Lab*: Data Extraction, Data Wrangling and Exploration|*Lecture*: Pre-processing and Feature Extraction, Unstructured Data: Text and Images, *Lab*: tbd|*Lecture*: Data Annotation and Scaling, Data Centric AI, Big Data, *Lab*: Data Annotation and Parallel data processing with Dask|Topical excursion to a company dealing with large data sets (full day)|Excursion [Rhine Fall](https://rheinfall.ch/en/) & [Alpstein Mountain Range](https://www.appenzell.ch/en/alpstein.html) incl overnight stay|Short hike and transfer back to Winterthur|
+|**Morning** |Arrival US guests|*Lecture*: Lectures in data engineering |*Lecture:* Lectures in data engineering |*Lecture*: Lectures in data engineering |*Lecture*: Lectures in data engineering |Topical excursion to a company dealing with large data sets (full day)|Excursion [Rhine Fall](https://rheinfall.ch/en/) & [Alpstein Mountain Range](https://www.appenzell.ch/en/alpstein.html) incl overnight stay|Short hike and transfer back to Winterthur|
 |**Afternoon**|Welcome garden party in Rikon, incl. dinner (4 pm, tbc)|Data Science Project: Introduction and Selection of Project|Data Science Project: Project Work, Data Management, Data Report|Data Science Project: Project work in groups and individual supervision|Project checkpoint presentations and discussions|4 pm: Frack parade and [night of technology](https://www.zhaw.ch/de/engineering/ueber-uns/veranstaltungen/nacht-der-technik/) at ZHAW SoE|Excursion Rhine Fall & Alpstein Mountain Range incl overnight stay|Free time|
 
 
