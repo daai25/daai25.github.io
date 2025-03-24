@@ -36,9 +36,9 @@ Note: the final program will be displayed around 2 weeks before the start of the
 |--------|---------|--------|-------|-------|-------|-------|-------|
 |**Morning**|*Lecture*: Lecture in machine learninge | *Lecture*: Lecture in machine learninge |*Lecture*: Lecture in machine learninge |*Data Science Project*: Project work in groups and individual supervision|Full day excursion to Berne incl visit of the [federal parliament building](https://www.parlament.ch/en/%C3%BCber-das-parlament/parliament-building)|Transfer to Allendale, Michigan, USA |Transfer to Allendale, Michigan, USA|
 |**Afternoon**|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project presentations and discussions|Full day excursion to [Berne](https://www.bern.com/en/home) incl visit of the federal parliament building|Transfer to Allendale, Michigan, USA |Transfer to Allendale, Michigan, USA |
+|**Evening**|Dinner US guests only|Dinner US guests only|6 pm dinner all participants, incl. CH students, [Restaurant Brewhouse](https://www.brewhouse.restaurant/de/p/menu-1128.html)|Dinner US guests only|6 pm dinner for all participants, incl. CH students in Bern|
 
 
-6 pm Dinner for all participants, incl. CH students, [Restaurant Brewhouse](https://www.brewhouse.restaurant/de/p/menu-1128.html)
 
 ### Week 3: Deep Learning (GVSU), lecturer Dr. Denton Bobeldyk
 
