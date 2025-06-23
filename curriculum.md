@@ -14,13 +14,12 @@ English Level B2 is compulsory.
 
 ## Program structure 
 During the mornings, you will receive inputs and lectures, followed by structured exercises in a lab. In the afternoon you will work in teams on a challenge /task as project work.
-
-At the end of week two (part ZHAW SoE), the teams will present their solutions to a jury.
+The project work will last for the entire duration of teh summer school, at ZHAW as well as at GVSU.
 
 Topical and touristic excursion complement the academic curriculum.
 
 ## Program
-Note: the final program will be displayed around 2 weeks before the start of the summer school.
+Download the detailed programme for weeks 1 & 2 at [ZHAW School of Engineering](https://www.zhaw.ch/en/engineering)
 
 ### Week 1 at ZHAW: Data Engineering, lecturer: Dr. Jonathan Fürst 
 
