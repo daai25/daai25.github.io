@@ -19,7 +19,7 @@ The project work will last for the entire duration of teh summer school, at ZHAW
 Topical and touristic excursion complement the academic curriculum.
 
 ## Program
-Download the detailed programme for weeks 1 & 2 at [ZHAW School of Engineering](https://www.zhaw.ch/en/engineering)
+[Download](assets/images/2025 Summer School Program_ Data Analytics and Artificial Intelligence_week 1+2.pdf) the detailed programme for weeks 1 & 2 at [ZHAW School of Engineering](https://www.zhaw.ch/en/engineering)
 
 ### Week 1 at ZHAW: Data Engineering, lecturer: Dr. Jonathan Fürst 
 
