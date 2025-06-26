@@ -63,11 +63,12 @@ Programme Director Data Sciences
 
 Lecturer on pattern recognition, machine learning, artificial intelligence and biometrics at GVSU.
 
-**Lecturer of week 4 at GVSU on "Data Visualization"**
+**Lecturer of week 4 at GVSU on "Information Visualization"**
 
-![Dr. Jonathan Leidig](assets/images/jonathanleidig.jpg){: width="150" }
+![Prof. Ira Woodring](/assets/images/ira.jpg){: width="150" }  
+[**Prof. Ira Woodring**](https://www.gvsu.edu/computing/woodring-ira-71.htm)
 
-[**Dr. Jonathan Leidig**](https://www.gvsu.edu/computing/leidig-jonathan-49.htm) 
+Lecturer Computer Science Department, GVSU
 
 Lecturer on databases, data engineering, data structures and algorithms, health informatics and bioinformatics, and information visualization at GVSU.
 
