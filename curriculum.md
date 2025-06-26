@@ -43,15 +43,15 @@ Topical and touristic excursion complement the academic curriculum.
 
 |        |Mon 14.7|Tue 15.7|Wen 16.7|Thu 17.7|Fri 18.7|Sat 19.7|
 |--------|---------|--------|-------|-------|-------|-------|
-|**Morning**|*Lecture*: Convolutional Neural Networks, Deep learning intro, *Group Lab*|*Lecture*: Deep learning Digital Image Processing *Group Lab*|*Lecture*: Deep Learning Dimensionality Reduction and Autoencoders *Group Lab*|*Lecture*: LLMs and the future of AI |Excursion to [Meijer Gardens Tour](https://www.meijergardens.org/plan/groups-and-tours/)|
-|**Afternoon**|Lab/Final project work |Lab/Final project work|Lab/Final project work|Pab/Final project work|[Gilmore Car Museum](https://gilmorecarmuseum.org/) |Grand Haven Beach Excursion and 6 pm: Grand Rapids Soccer Club vs. Tulip City|
+|**Morning**|*Lecture*: Convolutional Neural Networks, Deep learning intro, *Group Lab*|*Lecture*: Deep learning Digital Image Processing *Group Lab*|*Lecture*: Deep Learning Dimensionality Reduction and Autoencoders *Group Lab*|*Lecture*: LLMs and the future of AI |Excursion to [Meijer Gardens Tour](https://www.meijergardens.org/plan/groups-and-tours/)|Grand Haven Beach Excursion|
+|**Afternoon**|Lab/Final project work |Lab/Final project work|Lab/Final project work|Pab/Final project work|[Gilmore Car Museum](https://gilmorecarmuseum.org/) |6 pm: Grand Rapids Soccer Club vs. Tulip City|
 
-### Week 4: Data Visualization (GVSU), lecturer Dr. Jonathan Leidig (tbc)
+### Week 4: Information Visualization (GVSU), lecturer Prof. Ira Woodring
 
 |        |Mon 21.7|Tue 22.7|Wen 23.7|Thu 224.7|Fri 25.7|Sat 26.7|
 |--------|---------|--------|-------|-------|-------|---------|
-|**Morning**|*Lecture*: Intro to visualization and design principles, *Exercises*: Human cognition and UX concepts|*Lecture*: Descriptive chart design, persona & task modeling, *Exercises*: Gestalt psychology, user/persona modeling, task modeling|*Lecture*: Multi-dimensional datasets, overviews, navigation and exploration with large datasets, *Lab*: Group project|*Lecture*: Tree, network, spatial analysis, persuasion, *Lab*: Group project|Excursion to [Chicago](https://www.chicago.gov/city/en.html)|Free Time in Chicago and closure of summer school|
-|**Afternoon**|*Visual analytics projects*: Exploratory data analysis lab with Tableau|*Visual analytics projects*: Statistical charts lab with programming librarie|*Visual analytics projects*: Visualization design with D3, Gephi, GIS, or Google Cloud Platform packages|*Visual analytics projects*: Project presentations, evaluation, celebration|Free time in Chicago and  overnight stay at [Chicago Hostel-International](https://hihostels.com/hostels/hi-chicago/)|
+|**Morning**|*Lecture*: Introduction to Data Vis including the libraries we will use|*Lecture*: Design Principles and Best Practices|*Lecture*: Design Principles and Best Practices|*Lecture*: User-Centered Design|Excursion to [Chicago](https://www.chicago.gov/city/en.html)|Free Time in Chicago and closure of summer school|
+|**Afternoon**|Information Visualization Lab/Final Project Work|Information Visualization Lab/Final Project Work|Information Visualization Lab/Final Project Work|Information Visualization Lab/Final Project Work: Project presentations, evaluation, celebration|Free time in Chicago and  overnight stay at [Chicago Hostel-International](https://hihostels.com/hostels/hi-chicago/)|
 
 
 
