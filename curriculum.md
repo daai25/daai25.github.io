@@ -39,12 +39,12 @@ Topical and touristic excursion complement the academic curriculum.
 
 
 
-### Week 3: Deep Learning (GVSU), lecturer Dr. Denton Bobeldyk (tbc)
+### Week 3: Deep Learning (GVSU), lecturer Dr. Denton Bobeldyk 
 
 |        |Mon 14.7|Tue 15.7|Wen 16.7|Thu 17.7|Fri 18.7|Sat 19.7|
 |--------|---------|--------|-------|-------|-------|-------|
-|**Morning**|*Lecture*: Convolutional Neural Networks, Deep learning evaluation methods, *Group Lab*|*Lecture*: Deep learning dataset management and augmentation, *Group Lab*|*Lecture*: Deep learning evaluation methods, Autoencoders & GANs, *Group Lab*|*Lecture*: Introduction to Group Deep Learning, *Project Lab presentation preparation*|Excursion to [Sleeping Bear Dunes](https://www.nps.gov/slbe/index.htm)|Tour [historic Fort Michilimackinac](https://www.mackinacparks.com/parks-and-attractions/fort-mackinac/) and ferry to [Mackinac Island](https://www.mackinacisland.org/)|
-|**Afternoon**|Group Deep Learning Project and Morning Lecture Review Kahoot|Group Deep Learning Project and Morning Lecture Review Kahoot|Group Deep Learning Project and Morning Lecture Review Kahoot|Project presentations, discussions, evaluation and celebration|Catamaran Ride and overnight stay in [Mackinaw City, MI](https://mackinawcity.com/)|Transfer back to Allendale|
+|**Morning**|*Lecture*: Convolutional Neural Networks, Deep learning intro, *Group Lab*|*Lecture*: Deep learning Digital Image Processing *Group Lab*|*Lecture*: Deep Learning Dimensionality Reduction and Autoencoders *Group Lab*|*Lecture*: LLMs and the future of AI |Excursion to [Sleeping Bear Dunes](https://www.nps.gov/slbe/index.htm)|Tour [historic Fort Michilimackinac](https://www.mackinacparks.com/parks-and-attractions/fort-mackinac/) and ferry to [Mackinac Island](https://www.mackinacisland.org/)|
+|**Afternoon**|Lab/Final project work |Lab/Final project work|Lab/Final project work|Pab/Final project work|Catamaran Ride and overnight stay in [Mackinaw City, MI](https://mackinawcity.com/)|Transfer back to Allendale|
 
 ### Week 4: Data Visualization (GVSU), lecturer Dr. Jonathan Leidig (tbc)
 
