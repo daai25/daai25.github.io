@@ -43,8 +43,8 @@ Topical and touristic excursion complement the academic curriculum.
 
 |        |Mon 14.7|Tue 15.7|Wen 16.7|Thu 17.7|Fri 18.7|Sat 19.7|
 |--------|---------|--------|-------|-------|-------|-------|
-|**Morning**|*Lecture*: Convolutional Neural Networks, Deep learning intro, *Group Lab*|*Lecture*: Deep learning Digital Image Processing *Group Lab*|*Lecture*: Deep Learning Dimensionality Reduction and Autoencoders *Group Lab*|*Lecture*: LLMs and the future of AI |Excursion to [Sleeping Bear Dunes](https://www.nps.gov/slbe/index.htm)|Tour [historic Fort Michilimackinac](https://www.mackinacparks.com/parks-and-attractions/fort-mackinac/) and ferry to [Mackinac Island](https://www.mackinacisland.org/)|
-|**Afternoon**|Lab/Final project work |Lab/Final project work|Lab/Final project work|Pab/Final project work|Catamaran Ride and overnight stay in [Mackinaw City, MI](https://mackinawcity.com/)|Transfer back to Allendale|
+|**Morning**|*Lecture*: Convolutional Neural Networks, Deep learning intro, *Group Lab*|*Lecture*: Deep learning Digital Image Processing *Group Lab*|*Lecture*: Deep Learning Dimensionality Reduction and Autoencoders *Group Lab*|*Lecture*: LLMs and the future of AI |Excursion to [Meijer Gardens Tour](https://www.meijergardens.org/plan/groups-and-tours/)|
+|**Afternoon**|Lab/Final project work |Lab/Final project work|Lab/Final project work|Pab/Final project work|[Gilmore Car Museum](https://gilmorecarmuseum.org/) |Grand Haven Beach Excursion and 6 pm: Grand Rapids Soccer Club vs. Tulip City|
 
 ### Week 4: Data Visualization (GVSU), lecturer Dr. Jonathan Leidig (tbc)
 
