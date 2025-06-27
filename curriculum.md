@@ -44,7 +44,7 @@ Topical and touristic excursion complement the academic curriculum.
 |        |Mon 14.7|Tue 15.7|Wen 16.7|Thu 17.7|Fri 18.7|Sat 19.7|
 |--------|---------|--------|-------|-------|-------|-------|
 |**Morning**|*Lecture*: Convolutional Neural Networks, Deep learning intro, *Group Lab*|*Lecture*: Deep learning Digital Image Processing *Group Lab*|*Lecture*: Deep Learning Dimensionality Reduction and Autoencoders *Group Lab*|*Lecture*: LLMs and the future of AI |Excursion to [Meijer Gardens Tour](https://www.meijergardens.org/plan/groups-and-tours/)|Grand Haven Beach Excursion|
-|**Afternoon**|Lab/Final project work |Lab/Final project work|Lab/Final project work|Pab/Final project work|[Gilmore Car Museum](https://gilmorecarmuseum.org/) |6 pm: Grand Rapids Soccer Club vs. Tulip City|
+|**Afternoon**|Lab/Final project work |Lab/Final project work|Lab/Final project work|Lab/Final project work|[Gilmore Car Museum](https://gilmorecarmuseum.org/), dinner at [Kalamazoo Blues Fest 2025](https://kvba.org/kalamazoo-blues-fest-2025/) |6 pm: Grand Rapids Soccer Club vs. Tulip City|
 
 ### Week 4: Information Visualization (GVSU), lecturer Prof. Ira Woodring
 
